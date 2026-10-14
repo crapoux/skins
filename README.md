@@ -1,5 +1,39 @@
-<img width="1920" height="1080" alt="Screenshot 2026-10-12 182529" src="https://github.com/user-attachments/assets/de041be8-eed9-4dad-962d-86de095fdbbe" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-12 180114" src="https://github.com/user-attachments/assets/5ddc33ce-725f-4063-8858-c04906b8eb99" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-12 180025" src="https://github.com/user-attachments/assets/8677384f-768c-4569-a4a3-cb65c204efcc" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-12 175913" src="https://github.com/user-attachments/assets/b962c42d-ea51-4291-87de-332407ee0532" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-12 175506" src="https://github.com/user-attachments/assets/a21bd51d-aa75-4b45-8278-2583eeb3bca1" />
+
+- My **[twitter](https://x.com/crapoux0)** : I post some clips and yap about different things (mostly in french)
+
+
+# My skins 🫪 - (Click on the pictures for video)
+
+[Cursor Folder](#cursor-folder)<br>
+[Crapouille v1](#crapouille-v1---originated-from-goated-skin-of-koifishu)<br>
+[Crapouille (latest)](#crapouille-latest-version)<br>
+[Aristia sacril](#aristia-sacril)<br>
+[DJ Minimal v2](#dj-minimal-v2---got-it-from-dj)<br>
+[ily juuzou♡](#ily-juuzou---got-it-from-jzu)
+
+
+
+
+
+## [Cursor folder](https://drive.google.com/file/d/1zGZpHmT0-jxhY-tkDSF9NhzLPnMHaNmo/view?usp=sharing)
+Has all the cursors I use or have used.
+
+
+## [Aristia Sacril](https://drive.google.com/file/d/1glC-oQPNQUHufOQu0GlGk9tnLUaAaC_w/view)
+[![i](previews/sacril.png)](previews/gameplay/sacril.mp4)
+
+## [Crapouille (v1)]() - Originated from "Goated skin" of [KoiFishu](https://osu.ppy.sh/users/4539930)
+[![i](previews/v1.png)](previews/gameplay/v1.mp4)
+
+## [Crapouille (latest version)]()
+[![i](previews/v2.png)](previews/gameplay/v2.mp4)
+
+
+## [DJ Minimal v2]() - Got it from [DJ](https://osu.ppy.sh/users/12892522)
+[![i](previews/dj.png)](previews/gameplay/dj.mp4)
+
+## [[ily juuzou♡]]() - Got it from [JZU](https://osu.ppy.sh/users/15131035)
+[![i](previews/ily.png)](previews/gameplay/ily.mp4)
+
+
+
