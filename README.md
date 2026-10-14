@@ -2,7 +2,7 @@
 - My **[twitter](https://x.com/crapoux0)** : I post some clips and yap about different things (mostly in french)
 
 
-# My skins 🫪 - (Click on the pictures for video)
+# My skins 🫪
 
 [Cursor Folder](#cursor-folder)<br>
 [Crapouille v1](#crapouille-v1---originated-from-goated-skin-of-koifishu)<br>
