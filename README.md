@@ -2,7 +2,7 @@
 - My **[twitter](https://x.com/crapoux0)** : I post some clips and yap about different things (mostly in french)
 
 
-# My skins 🫪 
+# My skins 🫪 - (Click on the pictures for video)
 
 [Cursor Folder](#cursor-folder)<br>
 [Crapouille v1](#crapouille-v1---originated-from-goated-skin-of-koifishu)<br>
@@ -20,17 +20,20 @@ Has all the cursors I use or have used.
 
 
 ## [Aristia Sacril](https://drive.google.com/file/d/1glC-oQPNQUHufOQu0GlGk9tnLUaAaC_w/view)
-![i](previews/sacril.png)
+[![i](previews/sacril.png)](previews/gameplay/sacril.mp4)
 
 ## [Crapouille (v1)]() - Originated from "Goated skin" of [KoiFishu](https://osu.ppy.sh/users/4539930)
-![i](previews/v1.png)
+[![i](previews/v1.png)](previews/gameplay/v1.mp4)
 
 ## [Crapouille (latest version)]()
-![i](previews/v2.png)
+[![i](previews/v2.png)](previews/gameplay/v2.mp4)
 
 
 ## [DJ Minimal v2]() - Got it from [DJ](https://osu.ppy.sh/users/12892522)
-![i](previews/dj.png)
+[![i](previews/dj.png)](previews/gameplay/dj.mp4)
 
 ## [[ily juuzou♡]]() - Got it from [JZU](https://osu.ppy.sh/users/15131035)
-![i](previews/ily.png)
+[![i](previews/ily.png)](previews/gameplay/ily.mp4)
+
+
+
