@@ -4,18 +4,9 @@
 
 # My skins 🫪
 
-[Cursor Folder](#cursor-folder)<br>
-[Crapouille v1](#crapouille-v1---originated-from-goated-skin-of-koifishu)<br>
-[Crapouille (latest)](#crapouille-latest-version)<br>
-[Aristia sacril](#aristia-sacril)<br>
-[DJ Minimal v2](#dj-minimal-v2---got-it-from-dj)<br>
-[ily juuzou♡](#ily-juuzou---got-it-from-jzu)
 
 
-
-
-
-## [Cursor folder](https://drive.google.com/file/d/1zGZpHmT0-jxhY-tkDSF9NhzLPnMHaNmo/view?usp=sharing)
+[Cursor folder](https://drive.google.com/file/d/1GTbToFJ_Rci1ljWMlwakQbuOTBuQu2K1/view?usp=sharing)
 Has all the cursors I use or have used.
 
 
